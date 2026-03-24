@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Poças</h1>
-<h3 align="center">Studying Computer Science at Higher School of Technology and Management - Polytechnic Institute of Viana do Castelo, Portugal</h3>
+<h3 align="center">Degree in Computer Science</h3>
 
 
 
